@@ -1,0 +1,271 @@
+#title {
+background-image: url(../images/dogbgd3.jpg);
+background-size: cover;
+background-position: center;
+}
+
+#features {
+  padding: 8% 10%;
+  text-align: center;
+}
+
+#press {
+  padding-top: 15%
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 4%;
+}
+
+#press img {
+  margin: 15% 10% 15% 10%;
+}
+
+#testimonials {
+  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(217,215,212,1) 40%, #303032 100%);
+  height: 50%;
+  font-family: 'Ubuntu';
+  font-size: 1.2rem;
+}
+
+#testimonials img {
+  background-size: contain;
+  height: 50%;
+  margin-top: 10%;
+  padding-bottom: 3%;
+}
+
+.carousel-control-prev {
+  padding-right: 12%;
+}
+
+.carousel-control-next {
+  padding-left: 12%;
+}
+
+.carousel-indicators {
+  padding-bottom: 2%;
+}
+
+#press {
+  background: rgb(154,153,157);
+  background: linear-gradient(0deg, rgba(154,153,157,1) 0%, rgba(217,215,212,1) 20%, rgba(255,255,255,1) 100%);
+  height: 40%;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+#press img {
+  width: 40%;
+  margin-top: 7%;
+}
+
+.tech {
+  text-align: center;
+}
+
+#pricing {
+  width: 100%;
+  margin: 7% auto 3% auto;
+  text-align: center;
+}
+
+#cta {
+  text-align: center;
+  background-color: #DDC293;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+#footer {
+  text-align: center;
+  margin: auto;
+  color: white;
+  background-color: black;
+  font-family: 'Montserrat';
+}
+
+.heart {
+  color: red;
+}
+
+.pricing-head {
+  margin: 3% auto 5% auto;
+  text-align: center;
+}
+
+.card {
+  width: 90%;
+  height: 85%;
+  padding: 0;
+  margin: 0 auto 20% auto;
+  border: 1px solid black;
+}
+
+.my-prices {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.labrador {
+  position: relative;
+  top: 4%;
+}
+
+.chihuahua {
+  position: relative;
+  top: 3%;
+}
+
+.card-body {
+  color: black;
+}
+
+.card-header {
+  text-align: center;
+  background-color: #c6c4c4;
+}
+
+
+.carousel {
+  width:60%;
+  height:45%;
+  margin: 0 auto;
+  padding-bottom: 0;
+}
+
+.textcar {
+  padding-top: 0;
+  font-family: 'Quicksand';
+  text-align: center;
+  margin-left: 0 auto;
+}
+
+.carousel-inner {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+
+.fa-angle-right, .fa-angle-left {
+  color: black;
+}
+
+.test {
+  padding: 5% 10% 5% 10%;
+  margin: o auto;
+  text-align: center;
+}
+
+.fas, .fa-7x {
+  padding-bottom: 7%;
+  color: #b23939;
+}
+
+.fa-check-circle {
+  color: green;
+}
+
+.fa-bullseye {
+  color: #363032;
+}
+
+
+.nav-link {
+  color: white;
+  font-family: 'Ubuntu';
+}
+
+.navbar {
+  opacity: 0.9;
+  margin-bottom: 4.5rem;
+}
+
+.tinlogo {
+  width: 20%;
+}
+
+.download-btn {
+  font-family: 'Quicksand';
+  width: 25%;
+  margin: 5% 2% 5% 0;
+}
+
+.navbar-brand {
+  color: white;
+  font-family: 'Ubuntu';
+}
+
+h1 {
+  color: #FAEEF0;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  margin: 0 2% 2% 2%;
+
+}
+
+h2 {
+  font-size: 2.5em;
+  display: inline-block;
+}
+
+.front {
+  padding-right: 1%;
+}
+
+.slogan {
+  padding-bottom: 10%;
+}
+
+.heading {
+  text-align: center;
+  padding-top: 3%;
+  color: white;
+}
+
+.dogpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 3%;
+  width: 40%;
+  transform: rotate(10deg);
+  position: relative;
+}
+
+.phone-img {
+  overflow: hidden;
+}
+
+.part {
+  padding: 4%;
+}
+
+.cardo {
+width: 30%;
+border: 1px solid black;
+padding-bottom: 1%;
+}
+
+.options {
+  text-align: center;
+  margin: 0 auto;
+  width: 80%;
+}
+
+
+
+/* <i class="fas fa-camera fa-xs"></i>
+<i class="fas fa-camera fa-sm"></i>
+<i class="fas fa-camera fa-lg"></i>
+<i class="fas fa-camera fa-2x"></i>
+<i class="fas fa-camera fa-3x"></i>
+<i class="fas fa-camera fa-5x"></i>
+<i class="fas fa-camera fa-7x"></i>
+<i class="fas fa-camera fa-10x"></i> */
