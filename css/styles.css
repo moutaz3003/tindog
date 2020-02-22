@@ -268,4 +268,16 @@ padding-bottom: 1%;
 <i class="fas fa-camera fa-3x"></i>
 <i class="fas fa-camera fa-5x"></i>
 <i class="fas fa-camera fa-7x"></i>
-<i class="fas fa-camera fa-10x"></i> */
+<i class="fas fa-camera fa-10x"></i>
+
+Mobile phones*/
+
+@media only screen and (max-width: 600px) {
+
+  .download-btn {
+    font-family: 'Quicksand';
+    width: 45%;
+    margin: 5% 2% 5% 0;
+  }
+
+}
