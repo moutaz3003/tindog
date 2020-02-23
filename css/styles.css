@@ -288,8 +288,9 @@ padding-bottom: 1%;
     margin-left: auto;
     margin-right: auto;
     padding-top: 5%;
+    padding-bottom: 5%;
     width: 50%;
-    transform: rotate(0deg);
+    transform: none;
     position: relative;
   }
   
@@ -323,13 +324,13 @@ padding-bottom: 1%;
 .labrador {
   position: relative;
   top: 1%;
-    padding-bottom: 10%;
+  padding-bottom: 10%;
 }
 
 .chihuahua {
   position: relative;
   top: 1%;
-    padding-bottom: 10%;
+  padding-bottom: 10%;
 }
 
 .mastiff {
