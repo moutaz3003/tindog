@@ -264,6 +264,13 @@ padding-bottom: 1%;
   margin: 1%;
 }
 
+.social {
+  padding-top: 3%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  color: white;
+}
 
 
 /* <i class="fas fa-camera fa-xs"></i>
