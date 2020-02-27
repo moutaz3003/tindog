@@ -272,6 +272,16 @@ padding-bottom: 1%;
   color: white;
 }
 
+.nav-item {
+  color: white;
+  font-family: 'Ubuntu';
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+}
+
+.nav-item:hover {
+  color: orange;
+}
 
 /* <i class="fas fa-camera fa-xs"></i>
 <i class="fas fa-camera fa-sm"></i>
