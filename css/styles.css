@@ -5,7 +5,7 @@ background-position: center;
 }
 
 #features {
-  padding: 8% 10%;
+  padding: 7% 10%;
   text-align: center;
 }
 
@@ -195,6 +195,7 @@ background-position: center;
 .navbar {
   opacity: 0.9;
   margin-bottom: 4.5rem;
+  background-color: #262a2d;
 }
 
 .tinlogo {
@@ -371,6 +372,11 @@ h2 {
 .cta {
     padding: 5% 2% 5% 2%;
 }
+
+#cta {
+  border-top: solid 1px black;
+}
+
 
 #pricing {
   width: 100%;
