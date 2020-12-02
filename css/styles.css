@@ -240,6 +240,10 @@
     .innerContainer{
       grid-template-areas: "cityTempCountry writtenForecast"
       "iconForecast"
+
+    height: 100vh;
+    width: 100vw;
+    border-radius: 0;
     }
   }
 
