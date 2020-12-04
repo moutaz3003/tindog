@@ -213,8 +213,8 @@
     color: white;
     font-family: 'Quicksand', sans-serif;
     box-sizing: border-box;
-    width: 90vw;
-    height: 90vh;
+    width: 80vw;
+    height: 86vh;
     border-radius: 40px;
     z-index: 2;
     display: grid; /* CHANGE THIS TO GRID */
